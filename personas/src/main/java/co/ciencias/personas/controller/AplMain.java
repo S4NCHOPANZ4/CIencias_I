@@ -1,5 +1,4 @@
 package co.ciencias.personas.controller;
-
 import co.ciencias.personas.controller.Controller;
 
 public class AplMain {

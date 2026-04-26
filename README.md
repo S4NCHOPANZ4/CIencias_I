@@ -1,7 +1,4 @@
-# Documentación — Juego Lista Circular
-Estructura MVC en Java
-
----
+# Juego Lista Circular
 
 ## 1. Descripción general
 
